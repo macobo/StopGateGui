@@ -1,0 +1,55 @@
+Vertikaalne (alustaja)	 macobo 2
+Horisontaalne	 moment92 2
+Mängu algus	 2011-01-05 18:36:28
+Mängu kestus	 01:49
+Võitja	 moment92 2
+1:	 macobo 2	 0 0
+2:	 moment92 2	 0 10
+3:	 macobo 2	 0 8
+4:	 moment92 2	 1 1
+5:	 macobo 2	 0 2
+6:	 moment92 2	 1 3
+7:	 macobo 2	 0 4
+8:	 moment92 2	 1 5
+9:	 macobo 2	 0 6
+10:	 moment92 2	 1 7
+11:	 macobo 2	 1 8
+12:	 moment92 2	 2 10
+13:	 macobo 2	 2 8
+14:	 moment92 2	 3 1
+15:	 macobo 2	 3 2
+16:	 moment92 2	 4 10
+17:	 macobo 2	 4 8
+18:	 moment92 2	 5 1
+19:	 macobo 2	 3 4
+20:	 moment92 2	 4 3
+21:	 macobo 2	 3 6
+22:	 moment92 2	 4 5
+23:	 macobo 2	 3 8
+24:	 moment92 2	 7 1
+25:	 macobo 2	 4 6
+26:	 moment92 2	 6 3
+27:	 macobo 2	 5 6
+28:	 moment92 2	 9 1
+29:	 macobo 2	 5 8
+30:	 moment92 2	 6 10
+31:	 macobo 2	 6 8
+32:	 moment92 2	 6 5
+33:	 macobo 2	 6 6
+34:	 moment92 2	 8 10
+35:	 macobo 2	 8 8
+36:	 moment92 2	 9 8
+37:	 macobo 2	 9 6
+38:	 moment92 2	 8 3
+39:	 macobo 2	 7 6
+40:	 moment92 2	 10 3
+41:	 macobo 2	 7 8
+42:	 moment92 2	 10 5
+43:	 macobo 2	 8 4
+44:	 moment92 2	 10 9
+45:	 macobo 2	 8 6
+46:	 moment92 2	 10 7
+47:	 macobo 2	 9 4
+48:	 moment92 2	 10 10
+49:	 macobo 2	 11 0
+50:	 moment92 2	 0 11

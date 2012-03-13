@@ -1,0 +1,11 @@
+Vertikaalne (alustaja)	 andreasots 1
+Horisontaalne	 phpMartin 1
+Mängu algus	 2011-01-28 07:38:47
+Mängu kestus	 00:00
+Võitja	 andreasots 1
+1:	 andreasots 1	 0 10
+2:	 phpMartin 1	 10 10
+3:	 andreasots 1	 0 8
+4:	 phpMartin 1	 10 8
+5:	 andreasots 1	 0 6
+6:	 phpMartin 1	 Vigane käik (10 8)

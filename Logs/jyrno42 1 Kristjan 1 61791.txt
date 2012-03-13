@@ -1,0 +1,54 @@
+Vertikaalne (alustaja)	 jyrno42 1
+Horisontaalne	 Kristjan 1
+Mängu algus	 2011-01-28 07:49:05
+Mängu kestus	 00:01
+Võitja	 jyrno42 1
+1:	 jyrno42 1	 1 0
+2:	 Kristjan 1	 0 2
+3:	 jyrno42 1	 1 3
+4:	 Kristjan 1	 0 5
+5:	 jyrno42 1	 1 6
+6:	 Kristjan 1	 0 8
+7:	 jyrno42 1	 1 9
+8:	 Kristjan 1	 0 11
+9:	 jyrno42 1	 10 0
+10:	 Kristjan 1	 2 0
+11:	 jyrno42 1	 10 2
+12:	 Kristjan 1	 2 1
+13:	 jyrno42 1	 10 4
+14:	 Kristjan 1	 2 2
+15:	 jyrno42 1	 10 6
+16:	 Kristjan 1	 2 3
+17:	 jyrno42 1	 10 10
+18:	 Kristjan 1	 2 4
+19:	 jyrno42 1	 10 8
+20:	 Kristjan 1	 2 5
+21:	 jyrno42 1	 8 10
+22:	 Kristjan 1	 2 6
+23:	 jyrno42 1	 8 8
+24:	 Kristjan 1	 2 7
+25:	 jyrno42 1	 8 6
+26:	 Kristjan 1	 2 8
+27:	 jyrno42 1	 8 4
+28:	 Kristjan 1	 2 9
+29:	 jyrno42 1	 8 2
+30:	 Kristjan 1	 2 10
+31:	 jyrno42 1	 8 0
+32:	 Kristjan 1	 2 11
+33:	 jyrno42 1	 6 10
+34:	 Kristjan 1	 4 0
+35:	 jyrno42 1	 6 8
+36:	 Kristjan 1	 4 1
+37:	 jyrno42 1	 6 6
+38:	 Kristjan 1	 4 2
+39:	 jyrno42 1	 6 4
+40:	 Kristjan 1	 4 3
+41:	 jyrno42 1	 7 2
+42:	 Kristjan 1	 4 4
+43:	 jyrno42 1	 7 0
+44:	 Kristjan 1	 4 5
+45:	 jyrno42 1	 5 10
+46:	 Kristjan 1	 4 6
+47:	 jyrno42 1	 5 8
+48:	 Kristjan 1	 4 7
+49:	 jyrno42 1	 11 10

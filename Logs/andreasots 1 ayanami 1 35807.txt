@@ -1,0 +1,53 @@
+Vertikaalne (alustaja)	 andreasots 1
+Horisontaalne	 ayanami 1
+Mängu algus	 2011-01-05 18:24:33
+Mängu kestus	 00:01
+Võitja	 ayanami 1
+1:	 andreasots 1	 0 10
+2:	 ayanami 1	 0 1
+3:	 andreasots 1	 0 8
+4:	 ayanami 1	 0 3
+5:	 andreasots 1	 0 6
+6:	 ayanami 1	 0 5
+7:	 andreasots 1	 1 10
+8:	 ayanami 1	 2 1
+9:	 andreasots 1	 1 8
+10:	 ayanami 1	 2 3
+11:	 andreasots 1	 1 6
+12:	 ayanami 1	 2 5
+13:	 andreasots 1	 2 10
+14:	 ayanami 1	 2 7
+15:	 andreasots 1	 2 8
+16:	 ayanami 1	 3 10
+17:	 andreasots 1	 3 8
+18:	 ayanami 1	 4 1
+19:	 andreasots 1	 4 8
+20:	 ayanami 1	 4 3
+21:	 andreasots 1	 4 6
+22:	 ayanami 1	 4 5
+23:	 andreasots 1	 5 10
+24:	 ayanami 1	 6 1
+25:	 andreasots 1	 5 8
+26:	 ayanami 1	 6 3
+27:	 andreasots 1	 5 6
+28:	 ayanami 1	 6 5
+29:	 andreasots 1	 6 10
+30:	 ayanami 1	 6 7
+31:	 andreasots 1	 6 8
+32:	 ayanami 1	 7 10
+33:	 andreasots 1	 7 8
+34:	 ayanami 1	 8 1
+35:	 andreasots 1	 8 8
+36:	 ayanami 1	 10 1
+37:	 andreasots 1	 8 6
+38:	 ayanami 1	 8 3
+39:	 andreasots 1	 8 4
+40:	 ayanami 1	 10 3
+41:	 andreasots 1	 9 10
+42:	 ayanami 1	 10 10
+43:	 andreasots 1	 9 8
+44:	 ayanami 1	 10 8
+45:	 andreasots 1	 9 6
+46:	 ayanami 1	 10 6
+47:	 andreasots 1	 9 4
+48:	 ayanami 1	 10 4

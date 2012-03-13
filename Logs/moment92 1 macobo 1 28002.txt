@@ -1,0 +1,67 @@
+Vertikaalne (alustaja)	 moment92 1
+Horisontaalne	 macobo 1
+Mängu algus	 2010-12-31 09:39:07
+Mängu kestus	 05:13
+Võitja	 moment92 1
+1:	 moment92 1	 1 0
+2:	 macobo 1	 2 1
+3:	 moment92 1	 1 2
+4:	 macobo 1	 4 1
+5:	 moment92 1	 1 4
+6:	 macobo 1	 0 7
+7:	 moment92 1	 1 8
+8:	 macobo 1	 0 11
+9:	 moment92 1	 3 2
+10:	 macobo 1	 2 5
+11:	 moment92 1	 5 2
+12:	 macobo 1	 2 7
+13:	 moment92 1	 3 8
+14:	 macobo 1	 2 11
+15:	 moment92 1	 10 10
+16:	 macobo 1	 4 5
+17:	 moment92 1	 10 0
+18:	 macobo 1	 4 7
+19:	 moment92 1	 8 0
+20:	 macobo 1	 6 1
+21:	 moment92 1	 7 2
+22:	 macobo 1	 4 9
+23:	 moment92 1	 10 2
+24:	 macobo 1	 8 3
+25:	 moment92 1	 10 4
+26:	 macobo 1	 4 11
+27:	 moment92 1	 8 10
+28:	 macobo 1	 6 11
+29:	 moment92 1	 10 6
+30:	 macobo 1	 6 5
+31:	 moment92 1	 8 4
+32:	 macobo 1	 6 7
+33:	 moment92 1	 7 8
+34:	 macobo 1	 8 7
+35:	 moment92 1	 9 8
+36:	 macobo 1	 10 8
+37:	 moment92 1	 2 9
+38:	 macobo 1	 0 10
+39:	 moment92 1	 4 3
+40:	 macobo 1	 2 4
+41:	 moment92 1	 6 3
+42:	 macobo 1	 8 2
+43:	 moment92 1	 0 5
+44:	 macobo 1	 5 8
+45:	 moment92 1	 0 8
+46:	 macobo 1	 6 10
+47:	 moment92 1	 8 8
+48:	 macobo 1	 8 6
+49:	 moment92 1	 11 9
+50:	 macobo 1	 1 6
+51:	 moment92 1	 9 0
+52:	 macobo 1	 2 0
+53:	 moment92 1	 9 10
+54:	 macobo 1	 3 6
+55:	 moment92 1	 0 3
+56:	 macobo 1	 3 10
+57:	 moment92 1	 2 2
+58:	 macobo 1	 5 6
+59:	 moment92 1	 9 4
+60:	 macobo 1	 4 0
+61:	 moment92 1	 0 0
+62:	 macobo 1	 Ajalimiit ületatud

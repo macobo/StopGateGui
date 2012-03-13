@@ -1,0 +1,60 @@
+Vertikaalne (alustaja)	 moment92 2
+Horisontaalne	 Aljevt 1
+Mängu algus	 2011-01-02 18:23:28
+Mängu kestus	 01:54
+Võitja	 moment92 2
+1:	 moment92 2	 1 0
+2:	 Aljevt 1	 10 10
+3:	 moment92 2	 1 2
+4:	 Aljevt 1	 10 8
+5:	 moment92 2	 1 4
+6:	 Aljevt 1	 10 7
+7:	 moment92 2	 1 6
+8:	 Aljevt 1	 10 6
+9:	 moment92 2	 1 8
+10:	 Aljevt 1	 10 5
+11:	 moment92 2	 1 10
+12:	 Aljevt 1	 10 4
+13:	 moment92 2	 3 0
+14:	 Aljevt 1	 10 3
+15:	 moment92 2	 3 2
+16:	 Aljevt 1	 10 1
+17:	 moment92 2	 3 4
+18:	 Aljevt 1	 8 8
+19:	 moment92 2	 3 10
+20:	 Aljevt 1	 8 6
+21:	 moment92 2	 3 6
+22:	 Aljevt 1	 8 5
+23:	 moment92 2	 3 8
+24:	 Aljevt 1	 8 3
+25:	 moment92 2	 5 0
+26:	 Aljevt 1	 8 1
+27:	 moment92 2	 5 2
+28:	 Aljevt 1	 6 6
+29:	 moment92 2	 5 4
+30:	 Aljevt 1	 6 3
+31:	 moment92 2	 5 10
+32:	 Aljevt 1	 6 1
+33:	 moment92 2	 5 6
+34:	 Aljevt 1	 10 11
+35:	 moment92 2	 8 10
+36:	 Aljevt 1	 10 9
+37:	 moment92 2	 7 4
+38:	 Aljevt 1	 10 2
+39:	 moment92 2	 6 10
+40:	 Aljevt 1	 10 0
+41:	 moment92 2	 6 8
+42:	 Aljevt 1	 8 9
+43:	 moment92 2	 4 8
+44:	 Aljevt 1	 8 7
+45:	 moment92 2	 7 7
+46:	 Aljevt 1	 8 4
+47:	 moment92 2	 4 10
+48:	 Aljevt 1	 8 2
+49:	 moment92 2	 5 8
+50:	 Aljevt 1	 8 0
+51:	 moment92 2	 6 4
+52:	 Aljevt 1	 6 2
+53:	 moment92 2	 9 10
+54:	 Aljevt 1	 6 0
+55:	 moment92 2	 0 0

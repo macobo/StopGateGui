@@ -1,0 +1,51 @@
+Vertikaalne (alustaja)	 macobo 2
+Horisontaalne	 Uni 3
+Mängu algus	 2011-01-02 18:29:04
+Mängu kestus	 00:06
+Võitja	 macobo 2
+1:	 macobo 2	 0 0
+2:	 Uni 3	 1 1
+3:	 macobo 2	 0 2
+4:	 Uni 3	 10 4
+5:	 macobo 2	 10 2
+6:	 Uni 3	 8 1
+7:	 macobo 2	 0 4
+8:	 Uni 3	 8 3
+9:	 macobo 2	 0 6
+10:	 Uni 3	 1 3
+11:	 macobo 2	 0 8
+12:	 Uni 3	 10 1
+13:	 macobo 2	 0 10
+14:	 Uni 3	 1 8
+15:	 macobo 2	 1 6
+16:	 Uni 3	 10 6
+17:	 macobo 2	 1 4
+18:	 Uni 3	 3 1
+19:	 macobo 2	 1 9
+20:	 Uni 3	 10 8
+21:	 macobo 2	 2 4
+22:	 Uni 3	 3 8
+23:	 macobo 2	 3 6
+24:	 Uni 3	 6 1
+25:	 macobo 2	 2 6
+26:	 Uni 3	 3 3
+27:	 macobo 2	 2 9
+28:	 Uni 3	 5 3
+29:	 macobo 2	 5 1
+30:	 Uni 3	 3 10
+31:	 macobo 2	 3 4
+32:	 Uni 3	 5 8
+33:	 macobo 2	 5 6
+34:	 Uni 3	 6 6
+35:	 macobo 2	 6 4
+36:	 Uni 3	 4 5
+37:	 macobo 2	 4 6
+38:	 Uni 3	 8 6
+39:	 macobo 2	 8 4
+40:	 Uni 3	 7 8
+41:	 macobo 2	 5 9
+42:	 Uni 3	 6 10
+43:	 macobo 2	 7 2
+44:	 Uni 3	 9 10
+45:	 macobo 2	 9 8
+46:	 Uni 3	 Vigane käik (7 10)

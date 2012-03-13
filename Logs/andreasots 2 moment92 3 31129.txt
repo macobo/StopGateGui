@@ -1,0 +1,56 @@
+Vertikaalne (alustaja)	 andreasots 2
+Horisontaalne	 moment92 3
+Mängu algus	 2011-01-02 18:30:18
+Mängu kestus	 00:00
+Võitja	 moment92 3
+1:	 andreasots 2	 1 10
+2:	 moment92 3	 0 1
+3:	 andreasots 2	 1 8
+4:	 moment92 3	 0 3
+5:	 andreasots 2	 1 6
+6:	 moment92 3	 2 1
+7:	 andreasots 2	 1 4
+8:	 moment92 3	 2 3
+9:	 andreasots 2	 2 10
+10:	 moment92 3	 2 5
+11:	 andreasots 2	 2 8
+12:	 moment92 3	 3 10
+13:	 andreasots 2	 2 6
+14:	 moment92 3	 3 8
+15:	 andreasots 2	 3 6
+16:	 moment92 3	 4 1
+17:	 andreasots 2	 4 6
+18:	 moment92 3	 4 3
+19:	 andreasots 2	 4 4
+20:	 moment92 3	 5 10
+21:	 andreasots 2	 5 8
+22:	 moment92 3	 6 1
+23:	 andreasots 2	 5 6
+24:	 moment92 3	 6 3
+25:	 andreasots 2	 5 4
+26:	 moment92 3	 6 5
+27:	 andreasots 2	 6 8
+28:	 moment92 3	 7 10
+29:	 andreasots 2	 6 6
+30:	 moment92 3	 7 8
+31:	 andreasots 2	 7 6
+32:	 moment92 3	 8 1
+33:	 andreasots 2	 8 6
+34:	 moment92 3	 10 1
+35:	 andreasots 2	 8 4
+36:	 moment92 3	 9 10
+37:	 andreasots 2	 8 2
+38:	 moment92 3	 9 3
+39:	 andreasots 2	 9 8
+40:	 moment92 3	 9 5
+41:	 andreasots 2	 9 6
+42:	 moment92 3	 10 7
+43:	 andreasots 2	 10 8
+44:	 moment92 3	 10 6
+45:	 andreasots 2	 11 10
+46:	 moment92 3	 10 4
+47:	 andreasots 2	 11 8
+48:	 moment92 3	 2 4
+49:	 andreasots 2	 11 2
+50:	 moment92 3	 3 9
+51:	 andreasots 2	 Vigane käik (1 0)

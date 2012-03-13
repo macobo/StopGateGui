@@ -1,0 +1,67 @@
+Vertikaalne (alustaja)	 Ignorance 2
+Horisontaalne	 jyrno42 3
+Mängu algus	 2011-01-05 18:30:14
+Mängu kestus	 00:01
+Võitja	 jyrno42 3
+1:	 Ignorance 2	 0 0
+2:	 jyrno42 3	 10 1
+3:	 Ignorance 2	 2 0
+4:	 jyrno42 3	 10 3
+5:	 Ignorance 2	 4 0
+6:	 jyrno42 3	 10 5
+7:	 Ignorance 2	 6 0
+8:	 jyrno42 3	 10 7
+9:	 Ignorance 2	 8 0
+10:	 jyrno42 3	 10 9
+11:	 Ignorance 2	 0 2
+12:	 jyrno42 3	 8 3
+13:	 Ignorance 2	 2 2
+14:	 jyrno42 3	 8 5
+15:	 Ignorance 2	 4 2
+16:	 jyrno42 3	 8 7
+17:	 Ignorance 2	 6 2
+18:	 jyrno42 3	 8 9
+19:	 Ignorance 2	 0 4
+20:	 jyrno42 3	 6 5
+21:	 Ignorance 2	 2 4
+22:	 jyrno42 3	 6 7
+23:	 Ignorance 2	 4 4
+24:	 jyrno42 3	 6 9
+25:	 Ignorance 2	 0 6
+26:	 jyrno42 3	 0 9
+27:	 Ignorance 2	 2 6
+28:	 jyrno42 3	 6 11
+29:	 Ignorance 2	 4 6
+30:	 jyrno42 3	 8 11
+31:	 Ignorance 2	 2 8
+32:	 jyrno42 3	 0 11
+33:	 Ignorance 2	 4 8
+34:	 jyrno42 3	 10 11
+35:	 Ignorance 2	 2 10
+36:	 jyrno42 3	 3 10
+37:	 Ignorance 2	 1 7
+38:	 jyrno42 3	 5 4
+39:	 Ignorance 2	 1 0
+40:	 jyrno42 3	 7 2
+41:	 Ignorance 2	 3 0
+42:	 jyrno42 3	 5 6
+43:	 Ignorance 2	 5 0
+44:	 jyrno42 3	 5 8
+45:	 Ignorance 2	 7 0
+46:	 jyrno42 3	 5 10
+47:	 Ignorance 2	 9 0
+48:	 jyrno42 3	 10 0
+49:	 Ignorance 2	 1 2
+50:	 jyrno42 3	 7 4
+51:	 Ignorance 2	 3 2
+52:	 jyrno42 3	 3 11
+53:	 Ignorance 2	 5 2
+54:	 jyrno42 3	 0 10
+55:	 Ignorance 2	 1 4
+56:	 jyrno42 3	 7 6
+57:	 Ignorance 2	 3 4
+58:	 jyrno42 3	 7 8
+59:	 Ignorance 2	 3 6
+60:	 jyrno42 3	 7 10
+61:	 Ignorance 2	 3 8
+62:	 jyrno42 3	 9 2

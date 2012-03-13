@@ -1,0 +1,11 @@
+Vertikaalne (alustaja)	 ayanami 1
+Horisontaalne	 phpMartin 1
+Mängu algus	 2011-01-05 18:33:37
+Mängu kestus	 00:00
+Võitja	 ayanami 1
+1:	 ayanami 1	 1 0
+2:	 phpMartin 1	 10 10
+3:	 ayanami 1	 3 0
+4:	 phpMartin 1	 10 8
+5:	 ayanami 1	 5 0
+6:	 phpMartin 1	 Vigane käik (10 8)

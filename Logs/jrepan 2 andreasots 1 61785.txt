@@ -1,0 +1,54 @@
+Vertikaalne (alustaja)	 jrepan 2
+Horisontaalne	 andreasots 1
+Mängu algus	 2011-01-28 07:38:37
+Mängu kestus	 00:02
+Võitja	 jrepan 2
+1:	 jrepan 2	 1 0
+2:	 andreasots 1	 0 11
+3:	 jrepan 2	 1 2
+4:	 andreasots 1	 0 10
+5:	 jrepan 2	 1 4
+6:	 andreasots 1	 0 9
+7:	 jrepan 2	 1 6
+8:	 andreasots 1	 0 8
+9:	 jrepan 2	 3 0
+10:	 andreasots 1	 2 11
+11:	 jrepan 2	 3 2
+12:	 andreasots 1	 2 10
+13:	 jrepan 2	 3 4
+14:	 andreasots 1	 2 9
+15:	 jrepan 2	 3 6
+16:	 andreasots 1	 2 8
+17:	 jrepan 2	 5 0
+18:	 andreasots 1	 4 11
+19:	 jrepan 2	 5 2
+20:	 andreasots 1	 4 10
+21:	 jrepan 2	 5 4
+22:	 andreasots 1	 4 9
+23:	 jrepan 2	 5 6
+24:	 andreasots 1	 4 8
+25:	 jrepan 2	 7 0
+26:	 andreasots 1	 6 11
+27:	 jrepan 2	 7 2
+28:	 andreasots 1	 6 10
+29:	 jrepan 2	 7 4
+30:	 andreasots 1	 6 9
+31:	 jrepan 2	 7 6
+32:	 andreasots 1	 6 8
+33:	 jrepan 2	 9 0
+34:	 andreasots 1	 8 11
+35:	 jrepan 2	 9 2
+36:	 andreasots 1	 8 10
+37:	 jrepan 2	 9 4
+38:	 andreasots 1	 8 9
+39:	 jrepan 2	 9 6
+40:	 andreasots 1	 8 8
+41:	 jrepan 2	 10 0
+42:	 andreasots 1	 10 11
+43:	 jrepan 2	 10 2
+44:	 andreasots 1	 10 10
+45:	 jrepan 2	 10 4
+46:	 andreasots 1	 10 9
+47:	 jrepan 2	 10 6
+48:	 andreasots 1	 10 8
+49:	 jrepan 2	 0 0
